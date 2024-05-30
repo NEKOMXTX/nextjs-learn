@@ -2,22 +2,22 @@
 
 # dependencies
 /nextjs-dashboard/node_modules/
-/.pnp
-.pnp.js
+/nextjs-dashboard/.pnp
+/nextjs-dashboard/.pnp.js
 
 # testing
-/coverage
+/nextjs-dashboard/coverage
 
 # next.js
-/.next/
-/out/
+/nextjs-dashboard/.next/
+/nextjs-dashboard/out/
 
 # production
-/build
+/nextjs-dashboard/build
 
 # misc
-.DS_Store
-*.pem
+/nextjs-dashboard.DS_Store
+/nextjs-dashboard*.pem
 
 # debug
 npm-debug.log*
